@@ -1,2 +1,2 @@
 # BeerGlassCollection
-A fullstack website so my grandpa can share his beerglass collection
+A fullstack website so my grandpa can share his beer-glass collection
